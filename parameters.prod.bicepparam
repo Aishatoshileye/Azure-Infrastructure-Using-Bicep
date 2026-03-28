@@ -1,0 +1,1 @@
+{\n  "environment": "production",\n  "location": "East US",\n  "vmSize": "Standard_DS1_v2",\n  "adminUsername": "adminUser",\n  "adminPassword": "P@ssw0rd123!"\n}
