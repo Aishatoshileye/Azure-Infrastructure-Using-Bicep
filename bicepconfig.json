@@ -1,0 +1,1 @@
+{\n  "rules": {\n    "no-parameters-in-template" : true,\n    "no-variable-in-template": true,\n    "no-with-parameters": true,\n    "no-unreferenced-output": true,\n    "no-duplicate-parameter": true,\n    "bicep-linter-config": {\n      "maximumLineLength": 120,\n      "requireOutputName": true,\n      "formatOnSave": true\n    }\n  }\n}
