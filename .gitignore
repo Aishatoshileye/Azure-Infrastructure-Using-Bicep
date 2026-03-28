@@ -1,0 +1,13 @@
+# Ignore Bicep cache
+.bicep
+
+# Ignore local parameters
+*.parameters.json
+
+# Ignore deployment outputs
+*.json
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-*
